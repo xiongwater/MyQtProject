@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+      <file>Resources/111.png</file>
+      <file>Resources/123.png</file>
+      <file>Resources/222.png</file>
+      <file>Resources/333.png</file>
+      <file>Resources/444.png</file>
+      <file>Resources/dogyear.png</file>
+      <file>Resources/GongJu.png</file>
+      <file>Resources/im.png</file>
+      <file>Resources/login.png</file>
+      <file>Resources/Myicon.png</file>
+      <file>Resources/dota.avi</file>
+      <file>Resources/splash.gif</file>
+      <file>Resources/partContent.png</file>
+      <file>Resources/BtnBaidu.png</file>
+      <file>Resources/BtnCamera.png</file>
+      <file>Resources/BtnDesk.png</file>
+      <file>Resources/BtnFeiQ.png</file>
+      <file>Resources/BtnMovie.png</file>
+      <file>Resources/BtnFile.png</file>
+      <file>Resources/GoodLuck.png</file>
+      <file>Resources/exit.png</file>
+    </qresource>
+</RCC>
